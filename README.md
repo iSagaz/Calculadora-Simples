@@ -72,5 +72,4 @@ Suporte a porcentagens (%)
 
 Histórico completo, com opção de apagar individualmente
 
-Interface gráfica usando Kivy
 
